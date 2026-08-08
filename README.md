@@ -56,11 +56,7 @@ Cross-Cultural Exchange & Leadership Development
 
 Telematics & Fleet IoT Connectivity
 
-📫 Let's Connect
 
-📧 Email: eng.hanan111@gmail.com
-
-🔗 LinkedIn
 
 ⭐️ Feel free to explore my repositories and connect with me for collaboration on IoT, AI, and security projects!
 <!--
