@@ -34,19 +34,6 @@ IoT Hardware Project: Wrong Posture Detection System→ Built with ESP32 + MPU60
 
 Bachelor’s Thesis: 5G F-OFDM Simulation & Spectral Analysis→ Achieved 46% throughput gain over conventional LTE OFDM.→ Simulated across QPSK, 16-QAM, 64-QAM, and 256-QAM schemes.
 
-📜 Certifications
-
-Cisco CCNA: Routing & Switching
-
-Wi-Fi and Fiber Optics Engineering
-
-Telecom Operations & Maintenance
-
-🌐 Languages
-
-Arabic: Native
-
-English: Advanced (C1)
 
 🎯 Interests
 
