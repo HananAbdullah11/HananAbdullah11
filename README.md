@@ -2,7 +2,7 @@
 
 IoT Security Engineer | Edge AI & Federated Learning | IoT Engineer 
 
-📍 Riyadh, Saudi Arabia📧 eng.hanan111@gmail.com🔗 LinkedIn
+📍 Riyadh, Saudi Arabia
 
 🚀 About Me
 
